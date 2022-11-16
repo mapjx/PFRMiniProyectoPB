@@ -20,4 +20,20 @@ val resFunction = simpsonNormal(2,3,function6)
 val resFunction = simpsonNormal(0,1,function7)
 
 
+def function_error(x: Double, y: Double): Double = math.abs(x-y)
 
+val res1 = 7.33
+val res2 = 8
+val res3 = 3.333
+val res4 = 1.09861
+val res5 = 1.71828
+val res6 = 0.828427
+val res7 = 0.785398
+
+val funcion_error = (function1, res1)
+val funcion_error = (function2, res2)
+val funcion_error = (function3, res3)
+val funcion_error = (function4, res4)
+val funcion_error = (function5, res5)
+val funcion_error = (function6, res6)
+val funcion_error = (function7, res7)
