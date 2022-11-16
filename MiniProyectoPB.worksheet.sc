@@ -1,5 +1,3 @@
-val function  = (x:Double) => -Math.pow(x,2)+(8*x)-12
-simpsonNormal(3,5,function)
 val function1 = (x: Double) => -Math.pow(x, 2) + (8 * x) - 12
 val function2 = (x: Double) => 3 * Math.pow(x, 2)
 val function3 = (x: Double) => x + (2 * Math.pow(x, 2)) - Math.pow(x, 3) + (5 * Math.pow(x, 4))
