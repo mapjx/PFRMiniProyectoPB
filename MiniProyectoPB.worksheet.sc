@@ -37,3 +37,10 @@ val funcion_error = (function4, res4)
 val funcion_error = (function5, res5)
 val funcion_error = (function6, res6)
 val funcion_error = (function7, res7)
+
+
+// Regla de Simpson 1/3 Compuesta
+
+
+
+// Regla de Simpson 1/3 Extendida
